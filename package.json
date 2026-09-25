@@ -11,14 +11,23 @@
     "type": "git",
     "url": "git+https://github.com/ychodey162/campus-eats.git"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangzomk751-crypto/campus-eats.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
+
     "url": "https://github.com/ychodey162/campus-eats/issues"
   },
   "homepage": "https://github.com/ychodey162/campus-eats#readme",
+
+    "url": "https://github.com/yangzomk751-crypto/campus-eats/issues"
+  },
+  "homepage": "https://github.com/yangzomk751-crypto/campus-eats#readme",
   "dependencies": {
     "dotenv": "^17.4.2",
     "ejs": "^6.0.1",
@@ -27,5 +36,7 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.14"
+    "nodemon": "^3.1.14",
+    "pg-promise": "^12.7.1"
   }
 }
