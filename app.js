@@ -23,6 +23,7 @@ app.use('/', indexRoutes);
 const apiRoutes = require('./routes/api');
 app.use('/api', apiRoutes);
 
+
 // Database
 const db = require('./config/db');
 
